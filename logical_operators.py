@@ -1,5 +1,5 @@
 a=int(input("enter the a value:"))
 b=int(input("enter the b value:"))
-print("A and B:", aandb)
-print("A OR B:",aorb)
-print("NotA=",nota)
+print("A and B:", a and b)
+print("A OR B:",a or b)
+print("NotA=",not a)

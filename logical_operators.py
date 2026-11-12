@@ -1,0 +1,5 @@
+a=int(input("enter the a value:"))
+b=int(input("enter the b value:"))
+print("A and B:", aandb)
+print("A OR B:",aorb)
+print("NotA=",nota)

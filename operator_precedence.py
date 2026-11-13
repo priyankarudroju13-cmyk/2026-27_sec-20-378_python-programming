@@ -1,0 +1,7 @@
+a=int(input("enter the a value:"))
+b=int(input("enter the b value:"))
+print("operator precedence")
+print("A+B*2=",a+b*2)
+print("(A+B)*2=",(a+b)*2)
+print("A-B=2=",a-b-2)
+print("A**B**2=",a**b**2)

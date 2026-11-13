@@ -1,8 +1,0 @@
-a=int(input("enter the a value:"))
-b=int(input("enter the b value:"))
-print("A>B:",a>b)
-print("A<B:",a<b)
-print("A==B:",a==b)
-print("A!=B:",a!=b)
-print("A>=B:",a>=b)
-print("A<=B:",a<=b)
